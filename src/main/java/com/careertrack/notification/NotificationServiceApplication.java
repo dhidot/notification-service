@@ -1,4 +1,4 @@
-package com.jastip.notification_service;
+package com.careertrack.notification;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
