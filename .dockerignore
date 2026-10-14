@@ -1,0 +1,14 @@
+.git
+.github
+.mvn
+mvnw
+mvnw.cmd
+.idea
+.vscode
+target
+*.log
+*.patch
+*.pem
+.env
+.env.*
+**/.DS_Store
